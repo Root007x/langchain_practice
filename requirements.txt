@@ -1,0 +1,22 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+openai
+langchain-anthropic
+langchain-google-genai
+google-generativeai
+langchain-groq
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+numpy
+scikit-learn
+sentence-transformers
+huggingface_hub[hf_xet]
+ipykernel
+streamlit
+pydantic
+
+# 4
