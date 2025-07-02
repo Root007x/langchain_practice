@@ -18,5 +18,8 @@ huggingface_hub[hf_xet]
 ipykernel
 streamlit
 pydantic
-
+langserve
+fastapi==0.103.1
+uvicorn
+grandalf
 # 4
